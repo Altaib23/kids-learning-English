@@ -1,3 +1,4 @@
+![clever](https://user-images.githubusercontent.com/76602289/197882482-6c0e071e-a63c-4ee2-b71c-468855d6668e.png)
 # kids_learninig_app
 
 A new Flutter project.
